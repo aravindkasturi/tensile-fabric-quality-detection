@@ -1,0 +1,11 @@
+Sample,Rupture_Detected,Rupture_Displacement_mm,Force_Before_Rupture_N,Force_After_Rupture_N,Force_Drop_Percent
+Test093,Yes,27.105,0.673,0.037,94.5
+Test094,No,,,,
+Test095,No,,,,
+Test097,No,,,,
+Test098,Yes,33.499,0.561,0.027,95.19
+Test099,Yes,39.499,2.222,0.395,82.22
+Test100,No,,,,
+Test101,Yes,37.034,2.858,0.005,99.83
+Test102,Yes,27.316,2.187,-0.009,100.41
+Test103,Yes,27.134,2.987,0.011,99.63

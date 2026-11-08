@@ -1,0 +1,7 @@
+Parameter,Unit,Minimum_Acceptable,Maximum_Acceptable,Acceptance_Direction,Specification_Source
+Maximum_Stress,MPa,,,, 
+Maximum_Strain,%,,,, 
+Initial_Stiffness,MPa_per_unit_strain,,,, 
+Energy_Absorption,MJ_per_m3,,,, 
+Rupture_Displacement,mm,,,, 
+Force_Drop_Percent,%,,,, 

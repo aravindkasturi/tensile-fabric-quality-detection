@@ -1,0 +1,11 @@
+Sample,Maximum_Stress_MPa,Initial_Stiffness_MPa_per_Strain,Energy_Absorption_MJ_per_m3,Cluster_ID,Predicted_Quality,Assessment_Type
+Test093,0.1474468085106383,0.18492816861974973,0.3095481489361702,0,BAD,Unsupervised relative performance grouping
+Test094,0.1502127659574468,0.24783234718780406,0.4501129255319149,0,BAD,Unsupervised relative performance grouping
+Test095,0.2178723404255319,0.19586917043216906,0.7718529787234042,0,BAD,Unsupervised relative performance grouping
+Test097,0.12170212765957446,0.23193959464146727,0.4764435834266517,0,BAD,Unsupervised relative performance grouping
+Test098,0.12361702127659573,0.25784489781624487,0.30268172340425525,0,BAD,Unsupervised relative performance grouping
+Test099,0.47723404255319146,1.0921274802858725,1.5898292553191489,1,GOOD,Unsupervised relative performance grouping
+Test100,0.9495744680851064,2.3492928018146877,3.9851857234042556,1,GOOD,Unsupervised relative performance grouping
+Test101,0.6123404255319149,1.1037574912456196,2.050110201567749,1,GOOD,Unsupervised relative performance grouping
+Test102,0.46978723404255324,1.2907254866295481,1.1438362374020155,1,GOOD,Unsupervised relative performance grouping
+Test103,0.64,1.594948129188771,1.6603688913773795,1,GOOD,Unsupervised relative performance grouping

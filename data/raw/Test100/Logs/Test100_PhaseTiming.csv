@@ -1,0 +1,7 @@
+Set,SetName,Cycle,Phase,StartTime(s),DataTime(s),Repeat
+1,Tensile_Test_of_PCL_by_VB,1,Preload,0,0,1
+1,Tensile_Test_of_PCL_by_VB,1,Stretch,0.01,0.01,1
+1,Tensile_Test_of_PCL_by_VB,1,Recover,60.01,60.01,1
+1,Tensile_Test_of_PCL_by_VB,1,Stretch,59.99,60.01,1
+1,Tensile_Test_of_PCL_by_VB,1,Recover,60.01,60.01,1
+0,Unknown,0,End,60.05,60.05,1
